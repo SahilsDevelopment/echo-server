@@ -1,0 +1,28 @@
+# Gradle build outputs
+/build/
+/out/
+
+# Gradle wrapper files (optional: usually included in repo)
+.gradle/
+
+# Gradle wrapper properties (sometimes in repo, sometimes ignored)
+gradle/wrapper/gradle-wrapper.properties
+
+# IDE files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: compiled classes
+*.class
+
+# Optional: application generated jar (if you build locally)
+*.jar
